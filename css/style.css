@@ -29,7 +29,7 @@ justify-content: center;
     background-color: var(--primary);
     border-radius: 5%;
     padding: 30px;
-    width: 300px;
+    width: 280px;
 }
 .titulo, .texto{
     background-color: var(--primary); 
